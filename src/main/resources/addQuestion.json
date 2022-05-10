@@ -1,0 +1,10 @@
+{
+  "quizId": "",
+  "questions": [
+    {
+      "message": "Сколько хромомсом у Ярика и Миши месте?",
+      "correctAnswer": "46+1",
+      "type": "TEXT"
+    }
+  ]
+}
