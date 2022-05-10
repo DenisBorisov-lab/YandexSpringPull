@@ -1,0 +1,14 @@
+{
+  "id": "",
+  "name": "test",
+  "questions": [
+    {
+      "message": "опрос для школьников",
+      "correctAnswer": "CHECKBOX"
+    },
+    {
+      "message": "опрос для школьников",
+      "correctAnswer": "CHECKBOX"
+    }
+  ]
+}
